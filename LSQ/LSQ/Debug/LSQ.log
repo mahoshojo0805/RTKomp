@@ -1,0 +1,38 @@
+﻿  LSQ.cpp
+D:\高性能计算\最小二乘并行求解\LSQ\LSQ\LSQ.cpp(67,24): warning C4473: “fscanf_s”: 没有为格式字符串传递足够的参数
+D:\高性能计算\最小二乘并行求解\LSQ\LSQ\LSQ.cpp(67,24): message : 占位符和其参数预计 2 可变参数，但提供的却是 1 参数
+D:\高性能计算\最小二乘并行求解\LSQ\LSQ\LSQ.cpp(67,24): message : 缺失的可变参数 2 为格式字符串“%c”所需
+D:\高性能计算\最小二乘并行求解\LSQ\LSQ\LSQ.cpp(67,24): message : 此参数用作缓冲区大小
+D:\高性能计算\最小二乘并行求解\LSQ\LSQ\LSQ.cpp(72,28): warning C4473: “fscanf_s”: 没有为格式字符串传递足够的参数
+D:\高性能计算\最小二乘并行求解\LSQ\LSQ\LSQ.cpp(72,28): message : 占位符和其参数预计 2 可变参数，但提供的却是 1 参数
+D:\高性能计算\最小二乘并行求解\LSQ\LSQ\LSQ.cpp(72,28): message : 缺失的可变参数 2 为格式字符串“%c”所需
+D:\高性能计算\最小二乘并行求解\LSQ\LSQ\LSQ.cpp(72,28): message : 此参数用作缓冲区大小
+D:\高性能计算\最小二乘并行求解\LSQ\LSQ\LSQ.cpp(76,28): warning C4473: “fscanf_s”: 没有为格式字符串传递足够的参数
+D:\高性能计算\最小二乘并行求解\LSQ\LSQ\LSQ.cpp(76,28): message : 占位符和其参数预计 2 可变参数，但提供的却是 1 参数
+D:\高性能计算\最小二乘并行求解\LSQ\LSQ\LSQ.cpp(76,28): message : 缺失的可变参数 2 为格式字符串“%c”所需
+D:\高性能计算\最小二乘并行求解\LSQ\LSQ\LSQ.cpp(76,28): message : 此参数用作缓冲区大小
+D:\高性能计算\最小二乘并行求解\LSQ\LSQ\LSQ.cpp(92,28): warning C4473: “fscanf_s”: 没有为格式字符串传递足够的参数
+D:\高性能计算\最小二乘并行求解\LSQ\LSQ\LSQ.cpp(92,28): message : 占位符和其参数预计 2 可变参数，但提供的却是 1 参数
+D:\高性能计算\最小二乘并行求解\LSQ\LSQ\LSQ.cpp(92,28): message : 缺失的可变参数 2 为格式字符串“%c”所需
+D:\高性能计算\最小二乘并行求解\LSQ\LSQ\LSQ.cpp(92,28): message : 此参数用作缓冲区大小
+D:\高性能计算\最小二乘并行求解\LSQ\LSQ\LSQ.cpp(111,24): warning C4473: “fscanf_s”: 没有为格式字符串传递足够的参数
+D:\高性能计算\最小二乘并行求解\LSQ\LSQ\LSQ.cpp(111,24): message : 占位符和其参数预计 2 可变参数，但提供的却是 1 参数
+D:\高性能计算\最小二乘并行求解\LSQ\LSQ\LSQ.cpp(111,24): message : 缺失的可变参数 2 为格式字符串“%c”所需
+D:\高性能计算\最小二乘并行求解\LSQ\LSQ\LSQ.cpp(111,24): message : 此参数用作缓冲区大小
+D:\高性能计算\最小二乘并行求解\LSQ\LSQ\LSQ.cpp(116,28): warning C4473: “fscanf_s”: 没有为格式字符串传递足够的参数
+D:\高性能计算\最小二乘并行求解\LSQ\LSQ\LSQ.cpp(116,28): message : 占位符和其参数预计 2 可变参数，但提供的却是 1 参数
+D:\高性能计算\最小二乘并行求解\LSQ\LSQ\LSQ.cpp(116,28): message : 缺失的可变参数 2 为格式字符串“%c”所需
+D:\高性能计算\最小二乘并行求解\LSQ\LSQ\LSQ.cpp(116,28): message : 此参数用作缓冲区大小
+D:\高性能计算\最小二乘并行求解\LSQ\LSQ\LSQ.cpp(120,28): warning C4473: “fscanf_s”: 没有为格式字符串传递足够的参数
+D:\高性能计算\最小二乘并行求解\LSQ\LSQ\LSQ.cpp(120,28): message : 占位符和其参数预计 2 可变参数，但提供的却是 1 参数
+D:\高性能计算\最小二乘并行求解\LSQ\LSQ\LSQ.cpp(120,28): message : 缺失的可变参数 2 为格式字符串“%c”所需
+D:\高性能计算\最小二乘并行求解\LSQ\LSQ\LSQ.cpp(120,28): message : 此参数用作缓冲区大小
+D:\高性能计算\最小二乘并行求解\LSQ\LSQ\LSQ.cpp(130,28): warning C4473: “fscanf_s”: 没有为格式字符串传递足够的参数
+D:\高性能计算\最小二乘并行求解\LSQ\LSQ\LSQ.cpp(130,28): message : 占位符和其参数预计 2 可变参数，但提供的却是 1 参数
+D:\高性能计算\最小二乘并行求解\LSQ\LSQ\LSQ.cpp(130,28): message : 缺失的可变参数 2 为格式字符串“%c”所需
+D:\高性能计算\最小二乘并行求解\LSQ\LSQ\LSQ.cpp(130,28): message : 此参数用作缓冲区大小
+D:\高性能计算\最小二乘并行求解\LSQ\LSQ\LSQ.cpp(434,12): warning C4101: “j”: 未引用的局部变量
+D:\高性能计算\最小二乘并行求解\LSQ\LSQ\LSQ.cpp(682,15): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+D:\高性能计算\最小二乘并行求解\LSQ\LSQ\LSQ.cpp(751,13): warning C4244: “=”: 从“time_t”转换到“double”，可能丢失数据
+D:\高性能计算\最小二乘并行求解\LSQ\LSQ\LSQ.cpp(757,13): warning C4244: “=”: 从“time_t”转换到“double”，可能丢失数据
+  LSQ.vcxproj -> D:\高性能计算\最小二乘并行求解\LSQ\Debug\LSQ.exe
